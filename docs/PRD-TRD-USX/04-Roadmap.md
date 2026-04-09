@@ -246,7 +246,7 @@ End with:
 
 ---
 
-## Step 5 — Create GitHub issues (issues only; no Project board)
+## Step 7 — Create GitHub issues (issues only; no Project board)
 Use the repo prompt:
 - `docs/prompts/create-gh-issue-short.md`
 
